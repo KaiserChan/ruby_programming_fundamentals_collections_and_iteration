@@ -114,6 +114,8 @@ my_siblings = {
 
 #  EXERCISE 5 BELOW ----------
 
+# puts my_cities.values.sum
+
 # my_siblings.each do |name, age|
 #   if age >= 35
 #     puts "#{name} is old ..."
@@ -124,7 +126,9 @@ my_siblings = {
 
 # puts fav_colors.last(2)
 
-
+# my_age.each do |age|
+#   puts age + 1
+# end
 
 # fav_colors += ["brown", "orange"]
 # puts fav_colors
