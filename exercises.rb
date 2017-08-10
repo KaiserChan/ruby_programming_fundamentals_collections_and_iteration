@@ -30,7 +30,7 @@ my_cities = {
 my_siblings = {
   leo: 38,
   may: 36,
-  jero: 23,
+  jeron: 23,
   ken: 32,
   sebastian: 35
 }
@@ -85,3 +85,29 @@ my_siblings = {
 # my_movies.each do |name, year|
 #   puts "#{name} came out in #{year}."
 # end
+
+
+
+#  EXERCISE 4 BELOW ----------
+
+# my_age.each do |item|
+#   if item < 30
+#     puts item
+#   end
+# end
+
+# my_siblings.each do |name, age|
+#   if age >= 35
+#     puts "#{name} is old ..."
+#   else
+#     puts "#{name} is young!"
+#   end
+# end
+
+# puts fav_colors.last(2)
+
+# artist.delete("John Legend")
+# puts artist
+
+# fav_colors += ["brown", "orange"]
+# puts fav_colors
