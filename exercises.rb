@@ -34,3 +34,12 @@ my_siblings = {
   ken: 32,
   sebastian: 35
 }
+
+
+#  EXERCISE 1 BELOW ----------
+
+puts coin_flip
+puts fav_colors[0]
+puts my_age.sort
+puts my_age.insert(0,0)
+puts my_movies[:san_andreas]
