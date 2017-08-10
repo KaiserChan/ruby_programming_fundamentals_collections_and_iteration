@@ -69,4 +69,19 @@ my_siblings = {
 
 
 
-#  EXERCISE 2 BELOW ----------
+#  EXERCISE 3 BELOW ----------
+
+# puts artist[0]
+# puts artist[1]
+
+# my_movies.each do |name, year|
+#   puts "#{name} came out in #{year}."
+# end
+
+# my_age = my_age.sort.reverse
+# puts my_age
+
+# my_movies[:beauty_and_the_beast] = [1991, 2017]
+# my_movies.each do |name, year|
+#   puts "#{name} came out in #{year}."
+# end
