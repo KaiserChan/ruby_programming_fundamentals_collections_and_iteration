@@ -36,10 +36,37 @@ my_siblings = {
 }
 
 
+
 #  EXERCISE 1 BELOW ----------
 
-puts coin_flip
-puts fav_colors[0]
-puts my_age.sort
-puts my_age.insert(0,0)
-puts my_movies[:san_andreas]
+# puts coin_flip
+
+# puts fav_colors[0]
+
+# puts my_age.sort
+
+# puts my_age.insert(0,0)
+
+# puts my_movies[:san_andreas]
+
+
+
+#  EXERCISE 2 BELOW ----------
+
+# puts fav_colors.last
+
+# my_cities[:los_angeles] = 10000000
+# puts my_cities
+
+# coin_flip = coin_flip.reverse
+# puts coin_flip
+
+# puts my_cities[:hongkong]
+
+# artist.each do |item|
+#   puts "I think #{item} is super awesome!"
+# end
+
+
+
+#  EXERCISE 2 BELOW ----------
