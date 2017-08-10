@@ -96,6 +96,24 @@ my_siblings = {
 #   end
 # end
 
+# puts my_age.max
+
+# counts = Hash.new 0
+# coin_flip.each do |item|
+#   counts[item] += 1
+# end
+# puts counts
+
+# artist.delete("John Legend")
+# puts artist
+
+# my_cities[:toronto] = 3000000
+# puts my_cities
+
+
+
+#  EXERCISE 5 BELOW ----------
+
 # my_siblings.each do |name, age|
 #   if age >= 35
 #     puts "#{name} is old ..."
@@ -106,8 +124,7 @@ my_siblings = {
 
 # puts fav_colors.last(2)
 
-# artist.delete("John Legend")
-# puts artist
+
 
 # fav_colors += ["brown", "orange"]
 # puts fav_colors
