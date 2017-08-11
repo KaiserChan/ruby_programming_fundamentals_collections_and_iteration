@@ -231,4 +231,46 @@ my_siblings = {
 
 
 
-# EXERCISE 7 BELOW ----------
+# EXERCISE 8 BELOW ----------
+
+# shopping_list = ["shoes", "white tee", "white shirt", "shorts", "glasses"]
+
+#1
+# shopping_list.each do |items|
+#   puts "*#{items}"
+# end
+
+#1
+# shopping_list = shopping_list << "pants"
+# puts shopping_list
+
+# shopping_list.each do |items|
+#   puts "*#{items}"
+# end
+
+#2
+# puts shopping_list.count
+
+#3
+# if shopping_list.include?("shoes")
+#   puts "You need to get new shoes."
+# else
+#   puts "You don't need new shoes"
+# end
+
+#4
+# puts shopping_list[1]
+
+#5
+# shopping_list = shopping_list.sort
+
+# shopping_list.each do |items|
+#   puts "*#{items}"
+# end
+
+#6
+# # shopping_list.delete("shorts")
+#
+# shopping_list.each do |items|
+#   puts "*#{items}"
+# end
