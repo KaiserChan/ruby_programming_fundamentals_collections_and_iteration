@@ -53,6 +53,11 @@ my_siblings = {
 
 #5
 # puts my_movies[:san_andreas]
+# my_movies.select do |movie, year|
+#   if year > 2012
+#     puts "#{movie} came out in year #{year}"
+#   end
+# end
 
 
 
@@ -114,11 +119,14 @@ my_siblings = {
 # puts my_age.max
 
 #3
-# counts = Hash.new 0
-# coin_flip.each do |item|
-#   counts[item] += 1
+
+# head = 0
+# coin_flip.each do |count|
+#   if count == "head"
+#     head +=1
+#   end
 # end
-# puts counts
+# puts "Head occurred for #{head} times"
 
 #4
 # artist.delete("John Legend")
