@@ -214,3 +214,21 @@ my_siblings = {
 #   check[:island] == false
 # end
 # puts not_island
+
+
+
+# EXERCISE 7 BELOW ----------
+
+#1
+# expense = [250, 7.95, 30.95, 16.50]
+# puts expense.sum
+#
+# total_expense = 0
+# expense.each do |item|
+#   total_expense += item
+# end
+# puts total_expense
+
+
+
+# EXERCISE 7 BELOW ----------
