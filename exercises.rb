@@ -4,8 +4,9 @@
 fav_colors = ["white", "black", "blue", "yellow", "grey"]
 my_age = [35, 35, 38, 36, 23]
 coin_flip = ["head", "head", "tail", "head", "tail"]
-artist = ["Eason Chan", "Maroon 5", "John Legend"]
+artist = ["Eason Chan", "Maroon 5", "John Legend", "The Rock"]
 colors_symbol = [:white, :black, :blue, :yellow, :grey]
+
 
 # Hashes here
 my_words = {
@@ -142,6 +143,12 @@ my_siblings = {
 
 #1
 # puts my_cities.values.sum
+#
+# total_population = 0
+# my_cities.each do |city, count|
+#   total_population += count
+# end
+# puts total_population
 
 #2
 # my_siblings.each do |name, age|
@@ -197,7 +204,7 @@ my_siblings = {
 # puts skateboard
 
 #3
-# one_to_fifty = [*1..50]
+one_to_fifty = [*1..50]
 # puts one_to_fifty
 
 #4
@@ -215,6 +222,8 @@ my_siblings = {
 #   end
 # end
 # puts one_to_fifty_triple
+#
+
 
 #6
 # not_island =
